@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b78754a1-1550-4a05-9d14-93880d26a8d8"
        width="980"
@@ -26,8 +25,6 @@
 
 ---
 
-
-
 ---
 
 ## ⭐ Featured Projects
@@ -44,7 +41,7 @@
   <p style="margin:0 0 12px 0;"><b>Key areas:</b> SIEM monitoring • Log ingestion • Detection engineering • Incident investigation</p>
 
   <p style="margin:0 0 12px 0;">
-    <a href="https://github.com/ayaan0299/soc-analyst-siem-homelab">
+    <a href="https://github.com/Ayaan0299/SOC-Analyst-SIEM-Home-Lab">
       <img src="https://img.shields.io/badge/View%20Repo-111?style=for-the-badge&logo=github" height="28" />
     </a>
   </p>
@@ -66,7 +63,7 @@
   <p style="margin:0 0 12px 0;"><b>Key areas:</b> Network scanning • Firewall defence • Traffic analysis • Linux administration</p>
 
   <p style="margin:0 0 12px 0;">
-    <a href="https://github.com/ayaan0299/cybersecurity-homelab">
+    <a href="https://github.com/Ayaan0299/cybersecurity-home-lab">
       <img src="https://img.shields.io/badge/View%20Repo-111?style=for-the-badge&logo=github" height="28" />
     </a>
   </p>
@@ -98,8 +95,3 @@
   <img src="https://img.shields.io/badge/Nmap-111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux" />
 </p>
-
----
-
-
-  
