@@ -101,9 +101,5 @@
 
 ---
 
-## 📬 Contact
-- GitHub: https://github.com/ayaan0299  
-- LinkedIn: https://www.linkedin.com/in/ayaan-latif-588540350/
-
 
   
