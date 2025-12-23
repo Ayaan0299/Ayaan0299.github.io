@@ -41,7 +41,7 @@
   <p style="margin:0 0 12px 0;"><b>Key areas:</b> SIEM monitoring • Log ingestion • Detection engineering • Incident investigation</p>
 
   <p style="margin:0 0 12px 0;">
-    <a href="https://github.com/Ayaan0299/SOC-Analyst-SIEM-Home-Lab">
+    <a href="https://github.com/ayaan0299/SOC-Analyst-SIEM-Home-Lab">
       <img src="https://img.shields.io/badge/View%20Repo-111?style=for-the-badge&logo=github" height="28" />
     </a>
   </p>
